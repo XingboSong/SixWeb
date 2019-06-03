@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Item View">
+<meta name="author" content="Simba">
+<title>SixStudio</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<a href="">Home</a> 
+			<a href="#name">Contact</a> 
+			<a href="">About</a>
+		</nav>
+	</header>
+
+	<div>
+			<a href="">1</a> 
+			<a href="">2</a> 
+			<a href="">3</a>
+			<a href="">4</a>			
+	</div>
+
+	<footer> 
+		<p>What We Do</p>
+        <p>"Help you find the best PhotoGraph Solution."</p>
+        <ul>
+            <li>
+                <p>SixStudio office, Tx</p>
+            </li>
+            <li>
+                <p>SixStudio666@gmail.com</p>
+            </li>
+            <li>
+                <p>+1 (906)370-6497</p>
+            </li>
+        </ul>
+	</footer>
+</body>
+</html>

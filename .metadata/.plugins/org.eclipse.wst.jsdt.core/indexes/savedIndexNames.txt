@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Xingbo Song\Six\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+460266504.index
+1219252382.index
+3460189733.index
+1335833971.index
+706221745.index
+4072171175.index
+89155811.index
+4216303215.index

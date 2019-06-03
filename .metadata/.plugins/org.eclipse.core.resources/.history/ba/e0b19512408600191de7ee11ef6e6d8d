@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SixStidu</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<a href="">Home</a> 
+			<a href=”#name">Contact</a> 
+			<a href="">About</a>
+		</nav>
+	</header>
+
+	<div></div>
+
+	<footer> </footer>
+</body>
+</html>

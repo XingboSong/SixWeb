@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SixStudio</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<a href="">Home</a> 
+			<a href=”#name">Contact</a> 
+			<a href="">About</a>
+		</nav>
+	</header>
+
+	<div></div>
+
+	<footer> 
+		<p>What We Do</p>
+        <p>"Help you find the best PhotoGraph Solution."</p>
+        <ul>
+            <li>
+                <p>SixStudio office, Tx</p>
+            </li>
+            <li>
+                <p>SixStudio666@gmail.com</p>
+            </li>
+            <li>
+                <p>+1 (906)370-6497</p>
+            </li>
+        </ul>
+	</footer>
+</body>
+</html>

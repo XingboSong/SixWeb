@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SixStidu</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<a href="">Home</a> 
+			<a href=”#name">Contact</a> 
+			<a href="">About</a>
+		</nav>
+	</header>
+
+	<div></div>
+
+	<footer> 
+		<p>What We Do</p>
+        <p>"Help you find the best place around."</p>
+        <ul>
+            <li>
+                <p>LaiOffer office, CA</p>
+            </li>
+            <li>
+                <p>info@laioffer.com</p>
+            </li>
+            <li>
+                <p>+1 800 123 456</p>
+            </li>
+        </ul>
+	</footer>
+</body>
+</html>
